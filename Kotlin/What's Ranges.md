@@ -1,4 +1,4 @@
-# Ranges
+# Ranges test
 Range is a collection of finite values which is defined by endpoints. The range in Kotlin consists of a start, a stop, and the step. The start and stop are inclusive in the Range and the value of step is by default 1. The range is used with comparable types. 
 
 Example of range: 
